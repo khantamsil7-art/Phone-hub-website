@@ -251,7 +251,7 @@ text-decoration:none;
 
 <!-- WHATSAPP -->
 
-<a class="whatsapp" href="https://wa.me/9304654203">💬</a>
+<a class="whatsapp" href="https://wa.me9304654203">💬</a>
 
 <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 
